@@ -11,11 +11,8 @@ El objetivo es predecir secuencias temporales aprovechando la capacidad de las L
 ```
 Proyecto1_RNN_LSTM_PrediccionPasajeros/
 ├── README.md
+├── proyecto_lstm_pasajeros.ipynb
 ├── requirements.txt
-├── notebook/
-│   └─ proyecto_lstm_pasajeros.ipynb
-├── data/
-    └─ airline-passengers.csv
 ```
 
 ## Instrucciones de Ejecución
